@@ -11,3 +11,5 @@ result=$((num1 + num2 + num3 + num4 ))
 echo "Result: $result"
 
 #This is the main example1
+# This is the merge example
+
