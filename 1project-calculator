@@ -9,3 +9,5 @@ read -p "Enter fourth number:: " num4
 
 result=$((num1 + num2 + num3 + num4 ))
 echo "Result: $result"
+
+#This is the main example1
