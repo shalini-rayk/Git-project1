@@ -13,3 +13,4 @@ echo "Result: $result"
 #This is the main example1
 # This is the merge example
 
+#This is the rebase example
